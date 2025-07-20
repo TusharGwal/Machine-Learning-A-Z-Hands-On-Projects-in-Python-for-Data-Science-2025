@@ -2,7 +2,7 @@
 
 Repository for code, notes, and concepts from the [Udemy course](https://www.udemy.com/course/machinelearning/) — *Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]*.
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) - [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) - [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) - [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ⚠️ Note: Folder names are arranged alphabetically due to Git limitations. Renaming them breaks commit history containing detailed implementation notes and dataset references. The proper course sequence is outlined below for clarity. 
  
