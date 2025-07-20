@@ -1,5 +1,6 @@
-# Machine-Learning-A-Z-hands-on-Python-for-data-Science
- Repository for code, notes, and concepts from the Udemy course — Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025].
+# Machine Learning A-Z [2025] – Hands-On Python for Data Science
+
+Repository for code, notes, and concepts from the [Udemy course](https://www.udemy.com/course/machinelearning/) — *Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]*.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) - [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) - [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
@@ -79,6 +80,7 @@
 
 ## What I learnt 
 * Master Machine Learning on Python
+* Gained practical experience with real-world datasets
 * Have a great intuition of every Machine Learning models
 * Make accurate predictions
 * Make powerful analysis
@@ -90,6 +92,9 @@
 * Know which Machine Learning model to choose for each type of problem
 * Build an army of powerful Machine Learning models and know how to combine them to solve any problem
 
+ ## Certificate
+
+![Certificate](https://github.com/TusharGwal/Machine-Learning-A-Z-Hands-On-Projects-in-Python-for-Data-Science-2025/blob/2415627056b7b1578510f506bbb9079e7b1795f9/Certificate.jpg)
 
 ## Author
 
@@ -101,11 +106,6 @@
 | :-------------: |:-------------:|:-----:|
 ![Hadelin de Ponteves](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/ponteves.jpg)|**Hadelin de Ponteves**|AI Entrepreneur|
 |![Kirill Eremenko](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/kiril.jpg)| **Kirill Eremenko** | Data Scientist |
-
- ## Certificate
-
-![Certificate](https://github.com/TusharGwal/Machine-Learning-A-Z-Hands-On-Projects-in-Python-for-Data-Science-2025/blob/2415627056b7b1578510f506bbb9079e7b1795f9/Certificate.jpg)
-
 
 ## Copyright
   
