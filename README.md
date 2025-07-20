@@ -2,7 +2,7 @@
 
 Repository for code implementation, handwritten notes, and concepts from the [Udemy course](https://www.udemy.com/course/machinelearning/) — *Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]*.
 
-⚠️ Note: Folder names are arranged alphabetically due to Git limitations. Renaming them breaks commit history containing detailed implementation notes and dataset references. The proper course sequence is outlined below for clarity. 
+⚠️Please Note: Folder names are arranged alphabetically due to Git limitations. Renaming them breaks commit history containing detailed implementation notes and dataset references. The proper course sequence is outlined below for clarity. 
  
  ## Course Layout
  * **Part 1 - Data Preprocessing**
