@@ -119,7 +119,7 @@
 
 3. **Certificate**
 
-![Certificate](https://www.udemy.com/certificate/UC-04523e4f-03e6-4a63-94c6-21d5c150dd7f/)
+![Certificate]([https://www.udemy.com/certificate/UC-04523e4f-03e6-4a63-94c6-21d5c150dd7f/](https://github.com/TusharGwal/Machine-Learning-A-Z-Hands-On-Projects-in-Python-for-Data-Science-2025/blob/2415627056b7b1578510f506bbb9079e7b1795f9/Certificate.jpg))
 
  4. **I am Extremely ThankFull For**
 
