@@ -102,30 +102,10 @@
 ![Hadelin de Ponteves](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/ponteves.jpg)|**Hadelin de Ponteves**|AI Entrepreneur|
 |![Kirill Eremenko](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/kiril.jpg)| **Kirill Eremenko** | Data Scientist |
 
-
-
-## Reference Links
-1. **Course Reference Thumbnail**
-
-![Course Description](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/Description.PNG)
-
- > [Udemy](https://www.udemy.com/course/machinelearning/)
-
-2. **Provided By**
-
-![Super Data Science Team](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/27129696_acc1.jpg)
-
-> **Note from Them** - We are the SuperDataScience Social team. You will be hearing from us when new SDS courses are released, when we publish new podcasts, blogs, share cheatsheets and more!.We are here to help you stay on the cutting edge of Data Science and Technology.
-
-3. **Certificate**
+ ## Certificate
 
 ![Certificate](https://github.com/TusharGwal/Machine-Learning-A-Z-Hands-On-Projects-in-Python-for-Data-Science-2025/blob/2415627056b7b1578510f506bbb9079e7b1795f9/Certificate.jpg)
 
- 4. **I am Extremely ThankFull For**
-
- ![Udemy](https://github.com/Ashleshk/Machine-Learning-A-Z-hands-on-Python-And-R-in-data-Science/blob/master/resource/Udemy.PNG)
-
- > Course Link -> [Udemy](https://www.udemy.com/course/machinelearning/)
 
 ## Copyright
   
